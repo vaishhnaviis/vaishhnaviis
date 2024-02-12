@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi S</h1>
 <h3 align="center">🚀 Student 🌍 Passionate about learning new technologies 🌟 Here to collaborate, learn, and contribute</h3>
 <img align ="right" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-- 🌱 I’m currently learning Data Science, RPA
+ 🌱 I’m currently learning Data Science, RPA<br><br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaishhnaviis](https://github.com/vaishhnaviis)
+
+ 👨‍💻 All of my projects are available at [https://github.com/vaishhnaviis](https://github.com/vaishhnaviis)
 
 
 <h3 align="left">Connect with me:</h3>
