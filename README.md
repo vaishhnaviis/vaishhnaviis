@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishhnaviis](https://github.com/vaishhnaviis)
 
-- 📫 How to reach me **https://www.linkedin.com/in/vaishnavi-s-4bb088237/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
